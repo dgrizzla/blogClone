@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "dgrizzla",
-    "repositoryName": "dgrizzla.github.io",
-    "branch": "master"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"dgrizzla","repositoryName":"dgrizzla.github.io","branch":"master"},"site":{"url":"https://dgrizzla.github.io"},"socialnetwork":{},"theme":{"name":"Saga","url":"//dgrizzla.github.io/themes/Saga"}}
