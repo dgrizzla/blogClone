@@ -1,5 +1,7 @@
 = Now what?
 
-image::https://pbs.twimg.com/media/Culyg79XYAAPR04.jpg[Name]
+
+![Normal image](//pbs.twimg.com/media/Culyg79XYAAPR04.jpg)
+
 
 12 oct. 2016
