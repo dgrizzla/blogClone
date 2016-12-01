@@ -1,0 +1,9 @@
+= I Look Cool Smoking
+
+
+:hp-image: https://pbs.twimg.com/media/Cm3SJCwWgAAfie_.jpg
+
+image::https://pbs.twimg.com/media/Cm3SJCwWgAAfie_.jpg["I Look Cool Smoking"]
+
+
+8 Julio 2016
