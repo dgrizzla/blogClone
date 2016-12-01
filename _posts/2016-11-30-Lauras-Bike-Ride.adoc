@@ -3,6 +3,8 @@
 
 :hp-image: https://pbs.twimg.com/media/CvqsGKHWIAICGIr.jpg
 
+image::https://pbs.twimg.com/media/CvqsGKHWIAICGIr.jpg["Laura's Bike Ride"]
+
 Un Pixel Art que hice bajo pedido :)
 
 
