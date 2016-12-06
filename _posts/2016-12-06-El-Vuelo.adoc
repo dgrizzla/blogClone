@@ -15,3 +15,5 @@ Fui feliz de verte volar
 con tus propias alas,
 y sonreí a la nostalgia
 queriendo regresar a ti.
+
+:hp-image: https://github.com/dgrizzla/dgrizzla.github.io/blob/gh-pages/images/hearts.png?raw=true
